@@ -36,4 +36,8 @@ To use PDF files in libraries that the owner has protected with IRM, the user wi
 |MacOS  <br/> |N/A  <br/> |N/A  <br/> |
 |IOS  <br/> |Azure Information Protection app  <br/> Foxit MobilePDF with RMS  <br/> |[Download Azure Information Protection app](https://go.microsoft.com/fwlink/?linkid=836828) <br/> [Purchase Foxit MobilePDF](https://play.google.com/store/apps/details?id=com.foxit.mobile.pdf.lite) <br/> |
    
-
+for review and adding to the article ?
+====
+Found this article https://docs.microsoft.com/en-us/azure/information-protection/rms-client/protected-pdf-readers
+This seems to apply to SharePoint Online too but article says only SharePoint 2013, can we have that updated ?
+There are other supported readers mentioned, good to have those included too
